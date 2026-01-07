@@ -39,6 +39,7 @@ section {
 
 .project-card h3 {
     margin-bottom: 10px;
+    color: #ccc;
 }
 
 .project-card p {
@@ -64,4 +65,5 @@ h2 {
     margin-top: 0;
 
 }
+
 
