@@ -31,7 +31,6 @@ section {
     margin-Top: 20px;
     max-width: 400px;
     border-radius: 13px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1)
 }
 
 .project-card {
@@ -40,6 +39,7 @@ section {
 
 .project-card:hover {
     transform: translateY(-6px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.35);
 }
 
 .projects {
@@ -82,6 +82,7 @@ h2 {
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 25px;
 }
+
 
 
 
