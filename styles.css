@@ -136,3 +136,26 @@ tech-stack span {
     border-radius: 6px;
     font-size: 14px;
 }
+
+@media (max-width: 768px) {
+
+    .navbar {
+        flex-derection: column;
+        gap: 10px;
+    }
+
+    .projec-detail {
+        padding: 16px;
+    }
+
+    .tach-stack {
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 768px) {
+    .project-card {
+        width: 100%;
+    }
+}
+
