@@ -100,5 +100,39 @@ h2 {
     text-decoration: underline;
 }
 
+.project-detail {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
 
+.project-detail h2 {
+    margin-bottom: 10px;
+}
 
+.project-desc {
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.project-features {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.project-features li {
+    margin-bottom: 8px;
+}
+
+tech-stack {
+    display: flax;
+    gap: 10px;
+}
+
+tech-stack span {
+    background: #eee;
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-size: 14px;
+}
