@@ -4,8 +4,8 @@ Website portofolio pribadi yang dibuat menggunakan **HTML & CSS**.
 Project ini menampilkan beberapa karya sederhana dari web development
 
 ## live
-- Home: https://alwymuhdor-coder.github.io/portofolio/
-- Landing Page Project: https://alwymuhdor-coder.github.io/portofolio/projects/landing-page/
+- Home: https://alwymuhdor-coder.github.io/Portofolio/
+- Landing Page Project: https://alwymuhdor-coder.github.io/Portofolio/projects/landing-page/
 
 ## Project Structure
 Portfolio/
