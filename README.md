@@ -5,7 +5,7 @@ Project ini menampilkan beberapa karya sederhana dari web development
 
 ## live
 - Home: https://alwymuhdor-coder.github.io/portofolio/
-- Landing Page Project: https://alwymuhdor-coder.github.io/protofolio/project/landing-page/
+- Landing Page Project: https://alwymuhdor-coder.github.io/portofolio/projects/landing-page/
 
 ## Project Structure
 Portfolio/
