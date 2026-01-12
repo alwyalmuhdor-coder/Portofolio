@@ -31,3 +31,9 @@ Portfolio/
 
 ## Purpose
 Project ini di bangun sebagai bagian dari proses belajar web development dan membangun portofolio online.
+
+## Status
+Project ini akan terus dikembangkan seiring progres belajar saya.
+
+## Alwy Muhdor
+Beginner Web Developer.
